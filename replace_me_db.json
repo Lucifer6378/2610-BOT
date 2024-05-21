@@ -1,14 +1,14 @@
 {
   "_comments": "Please change owner, owner_id, token, client_id, carbon_key, bots_key with your actual info!",
   
-  "token": "bot token goes here",
-  "client_id": "bot client id goes here",
+  "token": "MTE3MDE5MzYzMzY2MDY0NTQ2Ng.GV0Hay.mwp4mlgV8Sc8_3EAZ6S9sGrM9vfkLOBiHbhxc4",
+  "client_id": "1170193633660645466",
   "carbon_key": "add if bot is on carbonitex",
-  "bots_key": "bot key goes here",
-  "prefix": "%",
+  "bots_key": "9de1c23870ac39ae69aafed39225940f56941d02e5305a7ae486e2c0f1dd9f2c",
+  "prefix": "/",
   "ads": [".biz", ".com", ".me", ".co.uk", ".support", ".website", ".ie", ".xyz", ".tk"],
-  "whitelist": ["someuser", "margobra8"],
+  "whitelist": ["someuser", "lucifer66"],
   "role_whitelist": ["Admin", "Mods"],
-  "owner": "margobra8",
-  "owner_id": "195557723515912192"
+  "owner": "lucifer66",
+  "owner_id": "735345004628672552"
 }
